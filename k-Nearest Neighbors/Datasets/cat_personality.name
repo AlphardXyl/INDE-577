@@ -1,0 +1,43 @@
+Variable	Values	Meaning
+Sexe	M/F	male/female
+Age	Moinsde1/1a2/2a10/Plusde10	Less than 1 year/ 1-2 years/ 2-10 years/ More than 10 years/
+Race	BEN/SBI/BRI/CHA/EUR/MCO/PER/RAG/SPH/ORI/TUV/ Autre/NSP	Bengal/ Birman/ British Shorthair/ Chartreux / European/ Maine coon / Persian/ Ragdoll/ Savannah / Sphynx/ Siamese/ Turkish angora / No breed / Other / Unknown
+Nombre		Number of cats in the household
+Logement	ASB/AAB/ML/MI	Apartment without balcony / Apartment with balcony or terrace/ House in a subdivision / Individual house
+Zone	U/PU/R	Would you say that you live in an area that is :Urban/Periurban/rural
+Ext	1/2/3/4/5	How much time does your cat spend each day outdoors? None / Limited (less than one hour)/ Moderate (1 to 5 hours)/ Long (more than 5 hours)/ All the time (come back just to eat)
+Obs	1/2/3/4	How much time do you spend each day with you cat (observation, game, petting, care, ...)? None / Limited (less than one hour)/ Moderate (1 to 5 hours)/ Long (more than 5 hours)
+Abondance	1/2/3/NSP	Around your place of residence, would you say that abundance of natural areas (tree, bushes, grass ...) is Low / Moderate/ High/ I don’t know 
+PredOiseau	1/2/3/4/5	At what frequency does your cat capture birds? Never/ Rarely (1 to 5 times a year)/ Sometimes (5 to 10 times a year)/ Often (1 to 3 times a month)/ Very often (once a week or more) 
+PredMamm	1/2/3/4/5	At what frequency does your cat capture small mammals (mice, field mice, shrew)? Never/ Rarely (1 to 5 times a year)/ Sometimes (5 to 10 times a year)/ Often (1 to 3 times a month)/ Very often (once a week or more) 
+		
+		
+		
+		
+		
+		Dat from the article "Pet cat personality linked to owner-reported predation frequency " by Cordonnier et al. 
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
