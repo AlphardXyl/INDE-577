@@ -1,3 +1,12 @@
+# Ensemble Learning
+
+## File description
+- Data: Folders containing all data files used in this module
+- Ensemble_learning.ipynb:
+  - Introduction of Ensemble method and Ensemble Boosting
+  - Building Ensemble method from scratch and implement in data of wine quality
+
+## Dataset
 
 The data was downloaded from UCI Machine Learning Repository.
 
